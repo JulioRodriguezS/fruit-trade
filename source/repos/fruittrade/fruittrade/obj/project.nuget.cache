@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lSUPClcE3kYoPyaPZVW4nz/4PpxrFroZ0IKXLN/Kg0CTRXQVWzWWU3zrACIjBfhcLorNBwIoYEMas9Rw5AgggQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\julio\\source\\repos\\fruittrade\\fruittrade\\fruittrade.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\julio\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
